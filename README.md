@@ -13,11 +13,11 @@ The result is not “10 more ideas.”
 The result is:
 “Wait. Are we even asking the right question?”
 
-Humanity did not evolve through consensus. It evolved because some people noticed what everyone else missed. Einstein looked at time and said “what if it’s not fixed?” Newton saw an apple fall and pulled a law of nature out of it. Tesla helped wire the modern world. Satoshi Tajiri turned bug collecting into Pokémon and permanently altered childhood. The list goes on.
+Humanity did not evolve through consensus. It evolved because some people noticed what everyone else missed. Einstein looked at time and said “what if it’s not fixed?” Newton saw an apple fall and pulled a law of nature out of it. Tesla helped wire the modern world. Satoshi Tajiri turned bug collecting into Pokémon and permanently altered childhood. The list goes on and on.
 
 Progress has always depended on cognitive variation: explorers, pattern-spotters, obsessives, system-builders, danger-sensors, and the beautifully inconvenient people who looked at the tribe’s obvious answer and said:
 
-“No. That is not the real problem.
+“No. That is not the real problem."
 
 So it is only natural that we now give this cursed blessing to AI.
 
