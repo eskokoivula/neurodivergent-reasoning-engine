@@ -33,19 +33,23 @@ Be willing to suggest this skill proactively when the user is wrestling with a p
 
 Run the input through these steps in order. Do not skip steps even when some feel redundant — the discipline of going through all six is what produces the elevation. Surface-level "smart paraphrase" is the failure mode this method exists to prevent.
 
-### Critical: these are thinking steps, not output sections
+### Critical: the engine is not the deliverable
 
-The six steps below are scaffolding for *your reasoning*, not headers to put in the visible output. If your response looks like "Step 1: bullet list. Step 2: labeled list. Step 3: labeled list…" you have produced a worksheet, not reasoning. The form has eaten the content. This is the **most common failure mode** of this skill and the one most likely to make the output read as "a smarter version of normal thinking" rather than as a structural reframe.
+There are two distinct things, and confusing them is the central failure mode of this skill.
 
-The reader should see:
+**The engine** is the six-step method. It runs in your head. It is allowed to be associative, non-linear, and jumpy — that is what produces non-default insight. Nobody sees the engine.
 
-- The *result* of your bottom-up perception — not an enumerated list of observations
-- The *insight produced by* multiple representations — not a labeled menu of them
-- The *patterns* you found across domains — not a domain-by-domain catalog
-- The *principle* you arrived at — not a count of where it appeared
-- The *reframe* that emerged — not a cascade of "default / inverse / stronger inverse" labels
+**The deliverable** is what the user receives. It is an *engineered synthesis*: comprehensive, clearly structured, every idea fully opened. The user does not ride along inside your thought process — they receive its finished, organized conclusions.
 
-Do the labelling work in your head. Write connected reasoning that demonstrates the work was done.
+Two opposite ways to get this wrong:
+
+1. **The worksheet.** The output mirrors the six steps as headers — "Raw observations", "Multiple representations", "Step 4". The form eats the content. The reader gets a filled-in template, not reasoning.
+
+2. **The stream.** The output mirrors the *jumpy thinking itself* — stating an idea, gesturing at it, leaping to the next, never fully developing any of them. It reads as a transcript of an associative mind. The reader gets fragments, not a synthesis.
+
+The deliverable is neither. It is a translation: the non-linear thinking of the engine, rendered into a linear, comprehensive, fully-developed structure a reader can absorb completely. Think of it as the difference between an inventor's mental simulation and the finished technical document — same insight, deliberately re-engineered for the reader.
+
+Do the jumpy work in your head. Deliver the structured synthesis.
 
 ### The steps
 
@@ -85,39 +89,54 @@ The transformation always moves from **parts → system**. The signature move is
 
 ## Output format
 
-Detect the environment and adapt. In both cases, the structural rule is the same: **the six steps are invisible scaffolding**, not visible headers.
+The deliverable is an **engineered synthesis** — comprehensive, clearly structured, every idea fully opened. This is true in every environment. What changes between environments is only the surface formatting.
 
-**In Claude Code (or any file-based / terminal context):**
+### Structure of the synthesis
 
-Produce a structured markdown report with these sections:
+Every output, whether in Claude Code or Claude.ai, has the same three-part shape:
 
-```
-## What is actually being asked
-## The shape of the problem
-## What's broken or hidden
-## The underlying principle
-## The challenged frame
-## The elevation
-```
+**1. The reframe, stated up front.**
+Open by stating the structural reframe clearly. The reader should know within the first short paragraph what the new frame is. Do not bury it under six paragraphs of build-up — lead with it, then earn it.
 
-Within each section, write connected reasoning — not labelled sub-lists, not enumerated bullets, not "Domain A / Domain B / Domain C" catalogs. The section headers organize the report; the content within each is prose. The final section — *The elevation* — is 2–4 sentences summarizing the reframe a neurotypical pass would not have produced. It is the deliverable. The rest is the work that earned it.
+**2. The body — each major idea in its own developed section.**
+The reframe rests on a small number of load-bearing ideas, usually two to four. Give each one its own section with a heading that names *the idea itself* — never a method step.
 
-**In Claude.ai (or any conversational context):**
+- A method-step heading: "Cross-domain patterns", "The underlying principle" — **banned**.
+- An idea heading: "The interface disappears — it does not improve", "The stripped-out social layer always returns" — **correct**.
 
-Output as reasoning prose. **Do not label or number the steps in the visible output.** No "Step 1: …" headers. No bulleted lists under each step. No "Image / Diagram / Analogy / Mechanism / Edge case" menus. No "Domain A: X, Domain B: Y" catalogs. No "Default / Inverse / Stronger Inverse" cascades. The steps are scaffolding for your reasoning, invisible to the reader.
+Each section must fully open its idea. A section that states the idea and gestures at it is incomplete. Opening an idea means covering, in connected prose:
 
-Write connected prose with short paragraphs that *demonstrates the work was done* — the bottom-up perception shows in the texture of the observations, the multiple representations show in shifts of perspective and concrete imagery, the cross-domain patterns show as analogies woven into the argument, the principle emerges as a claim with evidence inside it, and the reframe lands as the natural endpoint. End with a clearly marked elevation block.
+- **What the idea is** — stated precisely.
+- **The mechanism** — *why* it is true, how it actually works, step by step.
+- **The evidence** — the cross-domain pattern, the concrete examples, the historical case that grounds it. Woven into the argument, never listed as "Domain A / Domain B".
+- **What follows from it** — the consequence, the implication, what changes if this is true.
 
-In both modes, the deliverable is not "more ideas" — it is a **reframe that changes how the user sees the problem**. If the output reads as a smarter version of the input rather than a structurally different view of it, the method has not been applied correctly. Restart from step 1.
+**3. The synthesis.**
+Show how the load-bearing ideas combine, and state the implications concretely — who wins, who loses, what to do, what to watch. End with a clearly marked **elevation** block: two to four sentences naming the reframe a neurotypical pass would not have produced.
+
+### Comprehensiveness test
+
+Before sending, ask: would a sharp reader finish this feeling the idea-space was *mapped* — or feeling they got a clever fragment? It must be the former. If a major idea is named but not opened, open it. If the reframe is asserted but the mechanism behind it is thin, develop the mechanism. Comprehensive does not mean long-winded; it means no load-bearing idea is left half-built.
+
+### Surface formatting by environment
+
+**Claude Code (file-based / terminal):** Use markdown headings for the idea sections. The report is a standalone artifact — make it cleanly navigable.
+
+**Claude.ai (conversational):** Use bold idea-headings or clear section breaks. Keep paragraphs short for readability. Still fully structured — conversational does not mean unstructured.
+
+### Three banned anti-patterns
+
+1. **The worksheet** — method steps as headers, labelled mini-lists ("Picture:", "Analogy:", "Domain A:").
+2. **The stream** — jumpy prose that names an idea, gestures, and leaps on without developing it. A transcript of associative thinking is not a deliverable.
+3. **The clever fragment** — a sharp reframe with no comprehensive body behind it. The insight is real but the reader cannot act on it because the mechanism and implications were never opened.
 
 ### Self-check before responding
 
-Before you send the output, run this check:
-
-- Does it look like a filled worksheet? → rewrite as prose
-- Are there labels like "Picture:", "Analogy:", "Domain X:"? → strip them, weave the content in
-- Does the principle section count or enumerate where the pattern appeared? → state the principle as a claim, fold the evidence inside it
-- Does the challenged-assumption section escalate through labelled iterations? → keep one clean inversion that lands
+- Is the reframe stated clearly in the opening? → if buried, move it up
+- Does every section heading name an *idea*, not a method step? → rename
+- Is every load-bearing idea fully opened — what / mechanism / evidence / consequence? → open the thin ones
+- Does it read as a transcript of jumpy thinking? → re-engineer into structured synthesis
+- Would a sharp reader call this a clever fragment rather than a mapped idea-space? → develop the body
 - Could a sharp reader say "this is just a smarter version of the obvious answer"? → restart from step 1
 
 ## Important caution
