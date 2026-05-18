@@ -83,13 +83,17 @@ Claude.ai does not yet support user-installable skills natively. You can paste t
 
 ## Trigger phrases
 
-- *"Engage ND mode on this"*
-- *"Brainstorm this in neurodivergent mode"* / *"...in autist mode"*
-- *"Elevate this with ND reasoning"*
-- *"What am I missing structurally?"*
+- *"Elevate this"* / *"Elevate this idea"* / *"Elevate this analysis"*
+- *"Engage ND mode on this"* / *"Autist mode"* / *"Neurodivergent mode"*
 - *"Reframe this — see the system"*
+- *"What am I missing structurally?"*
+- *"ND reframe"* / *"Spectrum reframe"*
 
 The skill also triggers proactively when the user is wrestling with a problem that has obvious surface answers but no obvious right answer.
+
+### Not this skill
+
+Generic *"brainstorm X"* requests usually go to the general brainstorming skill, which clarifies *what to build*. This skill is for **reframing** something already on the table — it produces a structural reframe a default pass would not. Use the elevate / ND mode / reframe triggers above to activate it.
 
 ---
 

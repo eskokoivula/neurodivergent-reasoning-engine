@@ -1,6 +1,6 @@
 ---
 name: neurodivergent-mode
-description: Applies a disciplined imitation of neurodivergent (spectrum-style) cognition as a reasoning engine — bottom-up detail-first perception, deliberate mind-wandering across domains, internal simulation, multi-model social reasoning, and challenging default frames. Use this skill whenever the user wants to brainstorm a problem with non-default thinking, reframe an existing analysis, find the bigger picture, surface the hidden system behind symptoms, or asks to "think like autist", "brainstorm like autist", "engage ND mode", "autist mode", "elevate this", "what am I missing structurally", "reframe this — see the system", or similar phrasing. Works both as a primary brainstorming method on a raw problem and as a second-stage elevation pass on existing output. The deliverable is always a structural reframe a neurotypical default pass would not produce.
+description: Reframes a problem or elevates an existing idea, plan, or analysis by applying neurodivergent (spectrum-style) cognition as a reasoning engine — bottom-up detail-first perception, deliberate mind-wandering across domains, internal simulation, multi-model social reasoning, and rejection of default frames. Use this skill when the user wants to reframe a problem, elevate an existing analysis or idea, find the hidden system behind symptoms, or see the structural answer the obvious one misses. Explicit triggers: "elevate this", "elevate this idea", "elevate this analysis", "engage ND mode", "ND mode", "autist mode", "neurodivergent mode", "reframe this — see the system", "what am I missing structurally", "think like autist", "brainstorm like autist", "ND reframe", "spectrum reframe", or similar phrasing. Distinct from generic brainstorming: brainstorming clarifies *what to build*; this skill produces a structural *reframe* of what is already on the table. Especially powerful as a second-stage elevation pass after a conventional brainstorm — it turns parts-thinking into systems-thinking. The deliverable is always a structural reframe a neurotypical default pass would not produce, with concrete buildable instances and a transferable lever.
 ---
 
 # Neurodivergent Mode
@@ -27,19 +27,30 @@ Only the input differs. The engine and the deliverable are identical in both.
 
 ## When to trigger
 
-Trigger when the user:
+This skill is for **reframing**, not generic brainstorming. Trigger when the user:
 
-- Explicitly asks for "neurodivergent mode", "ND mode", "autist mode", "think like
+- Explicitly asks for "elevate this", "elevate this idea", "elevate this analysis",
+  "engage ND mode", "ND mode", "autist mode", "neurodivergent mode", "think like
   autist", "brainstorm like autist", "ND reframe", "spectrum reframe".
-- Wants to brainstorm a problem from scratch with non-default reasoning.
-- Says "elevate this", "what's the bigger picture", "what am I missing
-  structurally", "reframe this — see the system", "go deeper".
+- Says "reframe this — see the system", "what am I missing structurally", "what's
+  the bigger picture", "go deeper", "find the hidden system".
 - Has just received a brainstorm or analysis and seems unsatisfied with
-  surface-level results.
+  surface-level results — this is the elevation-pass use case.
+- Wants to reframe a problem from scratch with non-default reasoning (not just
+  clarify requirements — that is the brainstorming skill's job, not this one).
 
 Suggest this skill proactively when the user is wrestling with a problem that has
 obvious surface answers but no obvious right answer, or has just produced a
 parts-level output and is looking for more.
+
+### Not this skill
+
+If the user is trying to figure out *what* to build — clarifying requirements,
+scoping a feature, choosing approaches — that is the generic brainstorming skill's
+job, not this one. This skill assumes the question is already on the table and
+produces a structural reframe of it. When in doubt, ask the user whether they want
+a reframe of an existing problem (this skill) or help clarifying what they want
+(brainstorming).
 
 ---
 
